@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-# Adicione a URL absoluta do sitemap após definir o domínio oficial.
-# Sitemap: https://example.com/sitemap.xml
