@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <title>Símbolo geométrico PARADOXON</title>
+  <defs>
+    <linearGradient id="g" x1="82" y1="70" x2="430" y2="442" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9D0BF"/>
+      <stop offset=".46" stop-color="#B6A7A0"/>
+      <stop offset=".72" stop-color="#B13C82"/>
+      <stop offset="1" stop-color="#392A4D"/>
+    </linearGradient>
+    <linearGradient id="s" x1="108" y1="410" x2="396" y2="108" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B13C82"/>
+      <stop offset=".7" stop-color="#D9D0BF"/>
+    </linearGradient>
+  </defs>
+  <path d="M256 35 433 137v238L256 477 79 375V137L256 35Z" stroke="url(#g)" stroke-width="5"/>
+  <path d="M256 70 402 154v204l-146 84-146-84V154l146-84Z" stroke="#B6A7A0" stroke-opacity=".28"/>
+  <path d="M145 340V188l111 64 111-64v152" stroke="url(#g)" stroke-width="19" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M145 188 256 372l111-184" stroke="url(#s)" stroke-width="11" stroke-linecap="square"/>
+  <path d="M204 340h104" stroke="#D9D0BF" stroke-width="7"/>
+  <circle cx="256" cy="252" r="15" fill="#17151D" stroke="#D9D0BF" stroke-width="5"/>
+  <path d="M256 35v35M256 442v35M79 137l31 17M402 358l31 17" stroke="#B13C82" stroke-width="5"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#17151D"/>
+  <circle cx="970" cy="92" r="360" fill="#392A4D" opacity=".55"/>
+  <circle cx="1040" cy="18" r="180" fill="#B13C82" opacity=".18"/>
+  <path d="M150 424V206l160 92 160-92v218M150 206l160 265 160-265M235 424h150" fill="none" stroke="#D9D0BF" stroke-width="12"/>
+  <circle cx="310" cy="298" r="20" fill="#17151D" stroke="#B13C82" stroke-width="7"/>
+  <text x="550" y="297" fill="#D9D0BF" font-family="Georgia,serif" font-size="82" letter-spacing="8">PARADOXON</text>
+  <text x="556" y="350" fill="#B6A7A0" font-family="Arial,sans-serif" font-size="18" letter-spacing="7">INDEPENDENT TECHNOLOGY ECOSYSTEM</text>
+</svg>
