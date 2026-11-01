@@ -13,8 +13,6 @@ Landing page institucional estática, construída com HTML5 semântico, CSS3 e J
 │   ├── paradoxon-symbol.svg
 │   └── paradoxon-social.svg
 ├── favicon.svg
-├── robots.txt
-├── sitemap.xml
 └── README.md
 ```
 
